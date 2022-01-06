@@ -1,5 +1,5 @@
-# BigBaseV2
-A mod menu base for Grand Theft Auto V.
+﻿# Jan Stat Editor
+A Stat Editor for Grand Theft Auto V based on BigBaseV2 by pocakking and gir489
 Strictly for educational purposes.
 
 ## Features
@@ -12,13 +12,13 @@ Strictly for educational purposes.
 * scrProgram–based native hook
 
 ## Building
-To build BigBaseV2 you need:
+To build Jan Stat Editor you need:
 * Visual Studio 2019
 * [Premake 5.0](https://premake.github.io/download.html) in your PATH
 
 To set up the build environment, run the following commands in a terminal:
 ```dos
-git clone https://gir489@bitbucket.org/gir489/bigbasev2-fix.git --recurse-submodules
+git clone https://github.com/skript023/Jan-Stat-Editor.git --recurse-submodules
 cd BigBaseV2-fix
 GenerateProjects.bat
 ```
