@@ -2,7 +2,30 @@
 A Stat Editor for Grand Theft Auto V based on BigBaseV2 by pocakking and gir489
 Strictly for educational purposes.
 
-## Features
+## Stat Editor Features
+* Write Integer Stat
+* Write Bool Stat
+* Write Float Stat
+* Write Date Stat
+* Write String Stat
+* Write Packed Bool Stat
+* Write Packed Int Stat
+* Increment Stat
+
+* Read Integer Stat
+* Read Bool Stat
+* Read Float Stat
+* Read Date Stat
+* Read String Stat
+* Read Packed Bool Stat
+* Read Packed Int Stat
+
+* Global Variable Editor
+* Local Variable Editor
+* Some Unlocker
+
+
+## Base Features
 * ImGui–based user interface
 * Unloading at runtime
 * Log console
